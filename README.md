@@ -1,1 +1,1 @@
-Algorithms for cognition of music.
+Algorithms for music cognition.
