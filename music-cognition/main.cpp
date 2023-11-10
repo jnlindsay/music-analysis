@@ -1,3 +1,10 @@
+//
+//  main.cpp
+//  music-cognition
+//
+//  Created by Jeremy Lindsay on 10/11/2023.
+//
+
 #include <iostream>
 #include <deque>
 #include <algorithm>

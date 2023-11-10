@@ -1,2 +1,1 @@
-# music-analysis
-Algorithms for cognition of music
+Algorithms for cognition of music.
